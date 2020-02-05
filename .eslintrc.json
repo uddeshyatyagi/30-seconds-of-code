@@ -23,10 +23,6 @@
         "allowTemplateLiterals": true
       }
     ],
-    "semi": [
-      "error",
-      "always"
-    ],
     "semi-spacing": [
       "error",
       {
